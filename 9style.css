@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(226, 94, 94);
+    font-size: large;
+    color: yellow;
+}
+h1{
+    color: aqua;
+}
+img{
+    height: 50%;
+    width: 60%;
+}
